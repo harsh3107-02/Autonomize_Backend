@@ -1,4 +1,4 @@
-# GitHub User Management API
+# Autonomize_Backend
 
 ## 📋 Project Description
 
@@ -48,8 +48,8 @@ Before running this application, ensure the following tools are installed on you
 
 ### 1. Clone the Repository
    ```bash
-    git clone https://github.com/your-username/github-user-management-api.git
-    cd github-user-management-api
+https://github.com/harsh3107-02/Autonomize_Backend.git
+cd Autonomize_Backend
 ```
 
 ### 2. Install Dependencies
@@ -136,6 +136,8 @@ src/
 ├── utils/
 ├── app.ts
 ├── server.ts
+
+```
 
 
 ## 📌 Future Enhancements
